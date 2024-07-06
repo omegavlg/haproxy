@@ -270,3 +270,7 @@ listen web_tcp
         server s2 127.0.0.1:8888 check inter 3s
         server s3 127.0.0.1:9999 check inter 3s
 ```
+
+Статистка:
+
+<img src = "img/010.png" width = 50%>
